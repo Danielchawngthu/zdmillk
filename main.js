@@ -57,13 +57,6 @@ const PRODUCTS = [
 const DIST = {
   Aizawl: [
     { name: "Milk Candy office", loc: "Aizawl", ph: "+91 89748 61315" },
-     { name: "Aizawl Distributor 1", loc: "Aizawl", ph: "+91 82580 76340" },
-     { name: "Aizawl Distributor 2", loc: "Aizawl", ph: "+91 81189 09710" },
-     { name: "Aizawl Distributor 3", loc: "Aizawl", ph: "+91 98628 08337" },
-     { name: "Aizawl Distributor 4", loc: "Aizawl", ph: "+91 87948 84463" },
-     { name: "Aizawl Distributor 5", loc: "Aizawl", ph: "+91 84158 47321" },
-     { name: "Aizawl Distributor 6", loc: "Aizawl", ph: "+91 96128 87883" },
-     { name: "Aizawl Distributor 7", loc: "Aizawl", ph: "+91 85752 77636" },
   ],
   Lunglei: [
     { name: "Thlamuana", loc: "Lunglei", ph: "+91 93246 63493" },
